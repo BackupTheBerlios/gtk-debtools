@@ -1,0 +1,32 @@
+
+[filenumbers]
+0=74
+1=378
+2=1
+
+[filemarkers]
+0=
+1=
+2=
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filelist]
+0=/home/josue/Projects/gtk-debtools/src/main.cc
+1=/usr/include/c++/3.3/bits/stl_vector.h
+2=/home/josue/Projects/gtk-debtools/gtk-debtools.prj
+
+[Project Tree]
+0=0
+
+[File Tree]
+0=0

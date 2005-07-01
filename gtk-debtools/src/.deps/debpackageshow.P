@@ -1,0 +1,2 @@
+debpackageshow.o: debpackageshow.cc
+debpackageshow.cc :
